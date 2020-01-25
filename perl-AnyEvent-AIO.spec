@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	AnyEvent
 %define		pnam	AIO
 Summary:	AnyEvent::AIO - truly asynchronous file and directory I/O
