@@ -8,7 +8,7 @@ Summary:	AnyEvent::AIO - truly asynchronous file and directory I/O
 Summary(pl.UTF-8):	AnyEvent::AIO - w pełni asynchroniczne operacje we/wy dla plików i katalogów
 Name:		perl-AnyEvent-AIO
 Version:	1.1
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
